@@ -86,9 +86,9 @@ Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o
 ## 👨‍💻 Autor
 
 <div align="center">
-  <img src="https://github.com/kaufon.png?size=72" width=120px> 
+  <img src="https://github.com/kaufon.png?size=220" width=120px> 
 </div>
-
+ 
 ### Kauan Fonseca do Vale
 
 > Desenvolvedor de Software Junior e estudante de Desenvolvimento de Sistemas Multiplataforma na [Fatec](https://fatecsjc-prd.azurewebsites.net/)
