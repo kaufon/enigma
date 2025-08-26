@@ -16,7 +16,7 @@ O Enigma é um projeto inovador para gestão segura de senhas e dados sensíveis
 
 ## 📅 Sprints
 
-**Sprint 1**: [Link para a documentação](https://github.com/JohnPetros/stardust/wiki/Sprint-1)
+**Sprint 1**: [Link para a documentação]()
 
 **Sprint 2**: 🚧 Em andamento 🚧
 
