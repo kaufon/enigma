@@ -1,5 +1,3 @@
-# Enigma ︖
-
 <div align="center">
   <h1>Enigma ︖</h1>
 </div>
