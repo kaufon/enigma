@@ -4,3 +4,6 @@
 [submodule "server2"]
 	path = server
 	url = https://github.com/kaufon/enigma-server
+[submodule "server"]
+	path = server
+	url = https://github.com/kaufon/enigma-server
