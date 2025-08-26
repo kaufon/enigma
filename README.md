@@ -1,37 +1,101 @@
-# Módulo 1: Gestão de Contas e Acesso
-  ## RF001: CRUD de Usuários
-  - Descrição: O sistema deve permitir que um usuário crie, visualize, atualize e exclua sua própria conta. A criação será feita a partir de um e-mail e uma senha mestra.
-  ## RF002: Recuperação de Conta
-  - Descrição: O sistema deve oferecer um processo seguro para a recuperação de conta caso o usuário esqueça a senha mestra, utilizando e-mail de recuperação ou perguntas de segurança.
-  ## RF003: Bloqueio por Inatividade
-  - Descrição: O aplicativo deve ser bloqueado automaticamente após um período de inatividade configurável pelo usuário para prevenir acesso não autorizado.
-# Módulo 2: Gerenciamento de Credenciais (Cofre)
-  ## RF004: CRUD de Senhas e Organização
-  - Descrição: O usuário deve poder adicionar, editar, visualizar e excluir credenciais. O sistema permitirá a categorização em grupos (ex: "Rede Social", "Banco") e incluirá uma busca rápida.
-  ## RF005: Gerador de Senhas
-  - Descrição: O aplicativo deve incluir uma ferramenta para criar senhas fortes e personalizáveis.
-  ## RF006: Armazenamento de Notas Seguras
-   - Descrição: O sistema deve permitir que o usuário armazene notas textuais (chaves de API, códigos, etc.) em um espaço criptografado.
-  ## RF007: Cofre de Emergência
-   - Descrição: Deve existir uma seção de "Cofre de Emergência" para dados extremamente sensíveis, protegida por uma senha adicional e independente da senha mestra.
-# Módulo 3: Integração e Usabilidade
-  ## RF008: Preenchimento Automático (Opcional)
-  - Descrição: O sistema deve oferecer a integração com o sistema operacional Android para preencher automaticamente logins e senhas em outros aplicativos e navegadores.
-        Critério: Esta funcionalidade e opcional,nao e necessaria ser desenvolvida
-  ## RF009: Acesso Offline
-  - Descrição: O usuário deve conseguir acessar todas as suas senhas e notas armazenadas no cofre mesmo quando o dispositivo estiver sem conexão com a internet.
-# Módulo 4: Sincronização e Portabilidade de Dados
-  ## RF010: Backup e Sincronização
-  - Descrição: O sistema deve oferecer um serviço opcional de backup seguro e criptografado em nuvem, com sincronização automática entre múltiplos dispositivos.
-  ## RF011: Importação e Exportação de Dados
-  - Descrição: O usuário deve ter a capacidade de importar credenciais de outros gerenciadores e exportar seus dados de forma segura.
-# Módulo 5: Segurança e Monitoramento
-  ## RF012: Notificação de Segurança das Senhas
-  - Descrição: O sistema deve analisar as senhas armazenadas e notificar o usuário caso identifique credenciais fracas, repetidas ou muito antigas.
-  ## RF013: Relatórios de Utilização
-  - Descrição: O aplicativo deve fornecer relatórios simples sobre a segurança do cofre, como a quantidade de senhas e o número de credenciais duplicadas.
-  ## RF014: Compartilhamento Seguro
-  - Descrição: O sistema deve permitir o compartilhamento de credenciais específicas com terceiros de forma temporária e criptografada, com a opção de revogar o acesso.
-  ##  RF015: Atualizações de Segurança
-  - Descrição: O aplicativo deve realizar verificações periódicas para garantir que suas funcionalidades e definições de segurança estejam sempre atualizadas.
+# Enigma ︖
 
+<div align="center">
+  <h1>Enigma ︖</h1>
+</div>
+
+## 🖥️ Descrição
+
+O Enigma é um projeto inovador para gestão segura de senhas e dados sensíveis. Nosso objetivo é fornecer uma plataforma confiável e fácil de usar para proteger as informações dos usuários.
+
+---
+
+## 📖 Backlog do Produto
+
+🚧 Em andamento 🚧
+
+---
+
+## 📅 Sprints
+
+**Sprint 1**: [Link para a documentação](https://github.com/JohnPetros/stardust/wiki/Sprint-1)
+
+**Sprint 2**: 🚧 Em andamento 🚧
+
+**Sprint 3**: 🚧 Em andamento 🚧
+
+---
+
+
+## 🛠️ Tecnologias
+
+### 📱 Mobile
+- [React Native](https://reactnative.dev/) para construir a interface do aplicativo.
+- [TypeScript](https://www.typescriptlang.org/) para garantir a tipagem estrita e a robustez do código.
+- [Expo](https://expo.dev/) para facilitar o desenvolvimento e a distribuição do aplicativo.
+- [GlueStack UI](https://glue-stack.com/) para criar componentes de interface consistentes e estilizados.
+
+### 📟 Servidor
+- [NestJS](https://nestjs.com/) para construir o servidor.
+- [TypeScript](https://www.typescriptlang.org/) para garantir a tipagem estrita e a robustez do código.
+- [Prisma](https://www.prisma.io/) para gerenciar o banco de dados.
+
+### 📦 Banco de Dados
+- [PostgreSQL](https://www.postgresql.org/) para o banco de dados.
+
+---
+## Estrutura do Projeto 🌐
+
+- 🚧 Em andamento 🚧
+---
+## 🚀 Instalação
+
+Para configurar e executar o projeto localmente, siga estas etapas:
+
+### Pré-requisitos
+
+Certifique-se de ter instalado:
+- Node.js
+- Yarn ou npm
+- PostgreSQL
+
+### Passos
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/usuario/enigma.git
+   ```
+2. Instale as dependências:
+   ```bash
+   cd enigma
+   yarn install
+   ```
+3. Configure as variáveis de ambiente conforme o arquivo `.env.example`.
+4. Execute o servidor de desenvolvimento:
+   ```bash
+   yarn start
+   ```
+5. Acesse o aplicativo no navegador: [http://localhost:3000](http://localhost:3000).
+---
+## Documentação 📚
+- [Documentação do Projeto]("./docs")
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+## 👨‍💻 Autor
+
+<div align="center">
+  <img src="https://github.com/kaufon.png?size=72" width=120px> 
+</div>
+
+### Kauan Fonseca do Vale
+
+> Desenvolvedor de Software Junior e estudante de Desenvolvimento de Sistemas Multiplataforma na [Fatec](https://fatecsjc-prd.azurewebsites.net/)
+
+
+- <a href="https://github.com/kaufon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  
+
+- <a href="https://www.linkedin.com/in/kauan-fonseca-b62188300/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
