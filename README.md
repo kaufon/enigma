@@ -1,5 +1,5 @@
 # Módulo 1: Gestão de Contas e Acesso
-  ## RF001: CRUD de Usuário
+  ## RF001: CRUD de Usuários
   - Descrição: O sistema deve permitir que um usuário crie, visualize, atualize e exclua sua própria conta. A criação será feita a partir de um e-mail e uma senha mestra.
   ## RF002: Recuperação de Conta
   - Descrição: O sistema deve oferecer um processo seguro para a recuperação de conta caso o usuário esqueça a senha mestra, utilizando e-mail de recuperação ou perguntas de segurança.
