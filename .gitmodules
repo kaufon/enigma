@@ -1,3 +1,6 @@
 [submodule "enigma-server"]
 	path = enigma-server
 	url = https://github.com/kaufon/enigma-server
+[submodule "enigma-mobile"]
+	path = enigma-mobile
+	url = https://github.com/kaufon/enigma-mobile
