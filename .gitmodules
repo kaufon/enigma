@@ -1,0 +1,6 @@
+[submodule "mobile2"]
+	path = mobile
+	url = https://github.com/kaufon/enigma-mobile
+[submodule "server2"]
+	path = server
+	url = https://github.com/kaufon/enigma-server
