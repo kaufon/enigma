@@ -76,7 +76,7 @@ Certifique-se de ter instalado:
 5. Acesse o aplicativo no navegador: [http://localhost:3000](http://localhost:3000).
 ---
 ## Documentação 📚
-- [Documentação do Projeto]("./docs")
+- [Documentação do Projeto]("./docs/README.md")
 ---
 
 ## 📜 Licença
