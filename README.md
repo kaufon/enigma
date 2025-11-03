@@ -10,8 +10,8 @@ O Enigma é um projeto inovador para gestão segura de senhas e dados sensíveis
 
 ## 📖 Backlog do Produto
 
-<img src="public/images/backlog parte 1.png" alt="Backlog parte">
-<img src="public/images/backlog parte 2.png" alt="Backlog parte">
+<img src="public/images/backlog parte 1.png" alt="Backlog parte" width="900px">
+<img src="public/images/backlog parte 2 correta.png" alt="Backlog parte" width="900px">
 
 
 ---
