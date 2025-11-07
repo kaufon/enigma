@@ -15,18 +15,6 @@ O Enigma é um projeto inovador para gestão segura de senhas e dados sensíveis
 
 
 ---
-
-## 🗓️ Cronograma e Sprints do projeto
-
-| Sprint |    Período da Sprint    |                                       Link para a documentação                                       |     Status      |
-| :----: | :---------------------: | :--------------------------------------------------------------------------------------------------: | :-------------: |
-|   01   | 08/09/2025 a 28/09/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-1-report.md) | Em andamento 🚧 |
-|   02   | 06/10/2025 a 26/10/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-2-report.md) |  Em andamento 🚧 |
-|   03   | 03/11/2025 a 23/11/2025 | [Relatório](https://github.com/CtrI-Alt-Del/gaia/blob/main/documentation/sprints/sprint-3-report.md) |  Em andamento 🚧 |
-
----
-
-
 ## 🛠️ Tecnologias
 
 ### 📱 Mobile
@@ -50,9 +38,7 @@ O projeto segue uma arquitetura de microserviços com separação clara de
 responsabilidades:
 
 - **`enigma-server/`**: API REST desenvolvida em NestJS que gerencia e criptografia as senhas,notas seguras e usuarios.
-- **`enigma-mobile/`**: Aplicativo mobile desenvolvida com Expo.
-- **`documentation/`**: Documentação técnica e relatórios de progresso do
-  projeto
+- **`enigma-mobile/`**: Aplicativo mobile desenvolvida com Expo.  
 ---
 ## 🚀 Instalação
 
